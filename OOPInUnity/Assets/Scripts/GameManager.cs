@@ -11,6 +11,8 @@ public class GameManager : Singleton<GameManager>
 {
     public int score;
 
+    public bool gameOver = false;
+
     public GameObject pauseMenu;
 
     //keep track of what level game is on

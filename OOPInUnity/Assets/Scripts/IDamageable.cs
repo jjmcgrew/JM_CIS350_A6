@@ -9,6 +9,6 @@ using UnityEngine;
 
 public interface IDamageable
 {
-    void takeDamage(int amound);
+    void takeDamage(int amount);
 
 }
